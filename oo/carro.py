@@ -7,10 +7,10 @@ Você deve criar uma classe carro que vai possuir dois atributos composto por ou
 
 O motor terá a responsabilidade de controlar a velocidade.
 Ele oferece os seguintes atributos:
-
 1) Atributo de dado velocidade
 2) Método acelerar, que deverá incrfementar a velocidade de uma unidade
 3) Método frear que deverá decrementar a velocidade em duas unidades
+
 A Direção terá a responsabilidade de controlar a direção. Ela oferece
 os seguintes atributos:
 
